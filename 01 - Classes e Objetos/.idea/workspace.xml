@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="257e2f6f-4494-4beb-9224-1691b9ef4693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hvUiqD6jLlPyqiLMOhGF0rp2nJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="teste-veiculo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/teste-veiculo.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.teste-veiculo.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="257e2f6f-4494-4beb-9224-1691b9ef4693" name="Default Changelist" comment="" />
+      <created>1600891191348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600891191348</updated>
+      <workItem from="1600891193543" duration="3518000" />
+      <workItem from="1600896826261" duration="1946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600892578010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600892578010" />
+    <state x="848" y="276" key="EnvironmentVariablesDialog" timestamp="1600892748811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="276" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600892748811" />
+    <state x="761" y="267" key="FileChooserDialogImpl" timestamp="1600892751215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600892751215" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1600897529840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600897529840" />
+    <state x="790" y="243" key="NewPhpClassDialog" timestamp="1600891334793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600891334793" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600892220876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600892220876" />
+    <state x="663" y="222" key="SettingsEditor" timestamp="1600897696403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="222" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600897696403" />
+  </component>
+</project>
